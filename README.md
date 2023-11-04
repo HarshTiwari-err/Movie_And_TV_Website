@@ -4,7 +4,8 @@
 
 - User's query and results
 - Trending Movies and TV's
-- Genre's Filter
+- Genre's and Category Filter
+- Movie Detail Page
 <br/>
 
 ##  Technologies used
@@ -30,6 +31,7 @@ This project was created using the following technologies.
  
 ![screencapture-film-and-tv-directory-vercel-app-2023-11-04-15_08_25 (1)-min](https://github.com/HarshTiwari-err/Movie_And_TV_Website/assets/129328042/b3fdfc16-e109-4a10-bc45-120ab9650493)
 
-![screencapture-film-and-tv-directory-vercel-app-explore-movie-2023-11-04-15_08_50-min](https://github.com/HarshTiwari-err/Movie_And_TV_Website/assets/129328042/9365b6d1-a56f-415e-ac90-bf70296c3370)
+![screencapture-film-and-tv-directory-vercel-app-movie-565770-2023-11-04-15_17_22](https://github.com/HarshTiwari-err/Movie_And_TV_Website/assets/129328042/8342f119-e65c-4046-a694-655854e877e6)
 
+![screencapture-film-and-tv-directory-vercel-app-explore-movie-2023-11-04-15_08_50-min](https://github.com/HarshTiwari-err/Movie_And_TV_Website/assets/129328042/9365b6d1-a56f-415e-ac90-bf70296c3370)
 
